@@ -1,4 +1,5 @@
 # Completed by Ricardo Polytowski on May 05, 2017 #
+## Please execute it as an Administrator to make sure it will work ;)  ##
 
 # Proposed Exercise: #
 
