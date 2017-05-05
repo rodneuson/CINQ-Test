@@ -1,3 +1,5 @@
+# Completed by Ricardo Polytowski on May 05, 2017 #
+
 # Proposed Exercise: #
 
 A company wants to provide a common interface to its customers that would abstract the communication to its physical components installed on a machine.
