@@ -1,5 +1,5 @@
 # Completed by Ricardo Polytowski on May 05, 2017 #
-## Please execute VS as an Administrator to make sure the solution will work ;)  ##
+## >> Please execute VS as an Administrator to make sure the solution will work ;)  ##
 
 # Proposed Exercise: #
 
